@@ -10,11 +10,13 @@
   <ItemGroup>
     <None Remove="Resources\Empty.bin" />
     <None Remove="Resources\NullTerminatedString.bin" />
+    <None Remove="Resources\TheWolfsDen.pak" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="Resources\Empty.bin" />
     <EmbeddedResource Include="Resources\NullTerminatedString.bin" />
+    <EmbeddedResource Include="Resources\TheWolfsDen.pak" />
   </ItemGroup>
 
   <ItemGroup>
